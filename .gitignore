@@ -1,0 +1,27 @@
+# Local environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+node_modules/
+# Private or nonredistributed research inputs
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.duckdb
+*.duckdb.wal
+*.xlsx
+*.xls
+*.pdf
+data/raw/
+data/reference/bpi/
+# Personal browser exports and local execution artifacts
+historical-risk-review-notes*.json
+*.log
+.local-preview/
+.local-runs/
+backups/
+# No ignore rule is a substitute for checking the tracked-file set.

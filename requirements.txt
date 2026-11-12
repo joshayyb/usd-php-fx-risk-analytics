@@ -1,0 +1,2 @@
+# Portable replay and package verification require Python 3.11+ standard library only.
+# The original research used Python 3.14.10; see docs/ORIGINAL_ENVIRONMENT.json.
