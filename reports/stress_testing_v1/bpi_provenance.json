@@ -1,0 +1,23 @@
+{
+  "verified_on": "2026-11-10",
+  "official_listing": "https://www.bpi.com.ph/about-bpi/investor-relations/integrated-reports",
+  "official_pdf": "https://www.bpi.com.ph/content/dam/bpi/documents/english/about-bpi/investor-relations/integrated-reports/2025-integrated-report/2025%20BPI%20Integrated%20Report.pdf?download=true",
+  "sha256": "eef18463a2b4d28a7c8d873d1c40f9911cfb043af605db3d6cf03d3c37d19aa9",
+  "path": "data/reference/bpi/2025_bpi_integrated_report.pdf",
+  "official_download_matches_previously_inspected_attachment": true,
+  "reporting_date": "2025-12-31",
+  "entity": "BPI Group consolidated, not Parent Bank",
+  "note": "26.2.1; PDF page 140, printed 276-277",
+  "units": "millions of PHP; USD instruments in peso equivalent",
+  "assets_million_php": 418686,
+  "liabilities_million_php": 417872,
+  "signed_net_million_php": 814,
+  "definition": "Positive net on-balance-sheet USD position; not regulatory net open position or total economic FX risk",
+  "publication_date": "Unknown; official availability verified 2026-11-10, not inferred as of 2025-12-31",
+  "comparator": {
+    "shock_percent": "1.78",
+    "effect_million_php": "14",
+    "rounding_tolerance_php": 500000
+  },
+  "limits": "Static educational percentage mapping; derivatives accounting values are not complete economic hedge sensitivities."
+}

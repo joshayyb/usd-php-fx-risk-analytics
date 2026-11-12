@@ -1,0 +1,15 @@
+case,valuation_or_disclosure_date,scenario,scenario_type,shock_percent,shock_numerator,shock_denominator,base_value_or_exposure_php,stressed_rate_php_per_usd,pnl_php,signed_loss_php,pnl_numerator,pnl_denominator,historical_interval_id,historical_gap_calendar_days
+Hypothetical USD1m,2026-09-30,Hypothetical -5%,hypothetical,-5.0,-1,20,62485000.0,59.36075,-3124250.0,3124250.0,-3124250,1,,
+BPI Group static illustration,2025-12-31,Hypothetical -5%,hypothetical,-5.0,-1,20,814000000.0,,-40700000.0,40700000.0,-40700000,1,,
+Hypothetical USD1m,2026-09-30,Hypothetical -3%,hypothetical,-3.0,-3,100,62485000.0,60.61045,-1874550.0,1874550.0,-1874550,1,,
+BPI Group static illustration,2025-12-31,Hypothetical -3%,hypothetical,-3.0,-3,100,814000000.0,,-24420000.0,24420000.0,-24420000,1,,
+Hypothetical USD1m,2026-09-30,Hypothetical -1%,hypothetical,-1.0,-1,100,62485000.0,61.86015,-624850.0,624850.0,-624850,1,,
+BPI Group static illustration,2025-12-31,Hypothetical -1%,hypothetical,-1.0,-1,100,814000000.0,,-8140000.0,8140000.0,-8140000,1,,
+Hypothetical USD1m,2026-09-30,Hypothetical +1%,hypothetical,1.0,1,100,62485000.0,63.10985,624850.0,-624850.0,624850,1,,
+BPI Group static illustration,2025-12-31,Hypothetical +1%,hypothetical,1.0,1,100,814000000.0,,8140000.0,-8140000.0,8140000,1,,
+Hypothetical USD1m,2026-09-30,Hypothetical +3%,hypothetical,3.0,3,100,62485000.0,64.35955,1874550.0,-1874550.0,1874550,1,,
+BPI Group static illustration,2025-12-31,Hypothetical +3%,hypothetical,3.0,3,100,814000000.0,,24420000.0,-24420000.0,24420000,1,,
+Hypothetical USD1m,2026-09-30,Hypothetical +5%,hypothetical,5.0,1,20,62485000.0,65.60925,3124250.0,-3124250.0,3124250,1,,
+BPI Group static illustration,2025-12-31,Hypothetical +5%,hypothetical,5.0,1,20,814000000.0,,40700000.0,-40700000.0,40700000,1,,
+Hypothetical USD1m,2026-09-30,Historical decline: 04-05 Aug 2025,historical replay,-1.5036306343334704,-439,29196,62485000.0,61.54545639813673,-939543.601863269,939543.601863269,-6857728750,7299,3cf2fd962d1fbd9c4ecc59f56bb71204aa5a29d5f0ee666faa956835532c6848:peso cross daily:17391->17392,1.0
+BPI Group static illustration,2025-12-31,Historical decline: 04-05 Aug 2025,historical replay,-1.5036306343334704,-439,29196,814000000.0,,-12239553.36347445,12239553.36347445,-89336500000,7299,3cf2fd962d1fbd9c4ecc59f56bb71204aa5a29d5f0ee666faa956835532c6848:peso cross daily:17391->17392,1.0
