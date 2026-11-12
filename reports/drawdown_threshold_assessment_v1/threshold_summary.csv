@@ -1,0 +1,4 @@
+threshold_pct,new_alerts,distinct_underwater_periods,flagged_observations,total_observations,flagged_share_pct,median_episode_flagged_observations,longest_episode_flagged_observations,first_crossing,ongoing_at_study_end
+2,20,7,891,1647,54.09836065573771,6.5,349,2020-05-14,False
+3,15,4,733,1647,44.50516089860352,6,337,2020-07-03,False
+4,12,3,591,1647,35.88342440801457,10.0,228,2020-07-28,False
