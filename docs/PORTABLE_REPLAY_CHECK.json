@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "main_targets_exactly_replayed": 1390,
+  "exceptions": 22,
+  "stress_rows_exactly_replayed": 14,
+  "scope": "numerical replay from attributed published-observation extracts; not raw-source or BPI-PDF reverification",
+  "ledger_sha256": "105c8c66c95f8524040429a5b36113a207dc0f185fe3798588b30cc7aba490bd"
+}

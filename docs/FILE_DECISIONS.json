@@ -1,0 +1,244 @@
+[
+  {
+    "source": "reports/guided_historical_report_v1/index.html",
+    "included_as": "reports/guided_historical_report_v1/index.html",
+    "source_sha256": "89d9ba4096ec0caea1796474049bcfa998d677243abe3d606b49b34feddb13b8",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/guided_historical_report_v1/saved_results.json",
+    "included_as": "reports/guided_historical_report_v1/saved_results.json",
+    "source_sha256": "b5d58bbb56d2ae23c99d74a457aade5ea827ea8f109529b57d3e89fa0a46a695",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/guided_historical_report_v1/stress_comparison.png",
+    "included_as": "reports/guided_historical_report_v1/stress_comparison.png",
+    "source_sha256": "1efdefd88476050290624197e41a0c8ba6fd5303ad52fcf0f6ba3115c560402d",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "STRESS_TESTING_CONTRACT.md",
+    "included_as": "STRESS_TESTING_CONTRACT.md",
+    "source_sha256": "4699f71907848df0b0266bd64a3ec898b0a79b7a6f2870df187dbcb10e0ca73c",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "INDICATOR_ACTION_SPECIFICATION.md",
+    "included_as": "INDICATOR_ACTION_SPECIFICATION.md",
+    "source_sha256": "382cf4adf96062fb367775bfc54c79fabf0657f43e8141b4c99d32ca4fe6af52",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/stress_testing_v1/FINDINGS.md",
+    "included_as": "reports/stress_testing_v1/FINDINGS.md",
+    "source_sha256": "8162ede8b10f705737140cfbdb3a860dea2ef6ca44526fb1f5479d74fc15549b",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/drawdown_threshold_assessment_v1/FINDINGS.md",
+    "included_as": "reports/drawdown_threshold_assessment_v1/FINDINGS.md",
+    "source_sha256": "053cf0ce2864a98b34fabe0ccd56a8ad92c27f5090f26a5781bed394e383d95b",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/var_validation_v1/VALIDATION_SUMMARY.md",
+    "included_as": "reports/var_validation_v1/VALIDATION_SUMMARY.md",
+    "source_sha256": "3dc4a69a288eb8a09d1d5bdbd149ccfbb7d64ea8db2da103175220bf728848a9",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/investigation_episodes_v1/complete_interval_detail.csv",
+    "included_as": "reports/investigation_episodes_v1/complete_interval_detail.csv",
+    "source_sha256": "30af3807649452bd20fe80fadb895d5dbc40181d7906d52509de21e287e5a033",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/source_audit_remaining_gap1_v1/all_main_exception_endpoint_register.csv",
+    "included_as": "reports/source_audit_remaining_gap1_v1/all_main_exception_endpoint_register.csv",
+    "source_sha256": "a5dd91884a3baef76c4d5609a293d6f2a1b520a63ed87a9d5967e2417e627e68",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "MODELLING_CONTRACT.md",
+    "included_as": "MODELLING_CONTRACT.md",
+    "source_sha256": "200239ceadfa756f0d3bc3eed10146b000565f12121cf74a6bbbf3eaf19ceeb3",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/stress_testing_v1/bpi_provenance.json",
+    "included_as": "reports/stress_testing_v1/bpi_provenance.json",
+    "source_sha256": "db5a724fe32d6596a6a06c0b1cbb39f1f30be653f8dee8aca4d98d5f6758ae7b",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "data/processed/bsp_usd_php_interval_ledger_v1.csv",
+    "included_as": "data/processed/bsp_usd_php_interval_ledger_v1.csv",
+    "source_sha256": "105c8c66c95f8524040429a5b36113a207dc0f185fe3798588b30cc7aba490bd",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/var_validation_v1/results/main_250_higher_full.csv",
+    "included_as": "reports/var_validation_v1/results/main_250_higher_full.csv",
+    "source_sha256": "232898978a806eaae0457bbc643da6dd92c6cab1270b0eb76cd658145b16700a",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/var_validation_v1/results/main_250_higher_common.csv",
+    "included_as": "reports/var_validation_v1/results/main_250_higher_common.csv",
+    "source_sha256": "2686dd7f0fc519f8bee000857e52bbabd00d45e4022f359a5ab89d852aebb901",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/var_validation_v1/results/main_500_higher_common.csv",
+    "included_as": "reports/var_validation_v1/results/main_500_higher_common.csv",
+    "source_sha256": "c14e1f116f296b3ad6c27ce6bf7c39488c2d0bae1aa8826931caab9603bd14a9",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/var_validation_v1/results/main_250_linear_common.csv",
+    "included_as": "reports/var_validation_v1/results/main_250_linear_common.csv",
+    "source_sha256": "8bd2455c82fb0fd2671785a551c50171c76db2176417c42d3413763eb975d1f3",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/var_validation_v1/results/full_inclusion_250_higher.csv",
+    "included_as": "reports/var_validation_v1/results/full_inclusion_250_higher.csv",
+    "source_sha256": "cef9e70a7d3d73eef96637c61a902a279bde680a7f504790cafdbaba32a1d7da",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/stress_testing_v1/scenario_results.csv",
+    "included_as": "reports/stress_testing_v1/scenario_results.csv",
+    "source_sha256": "83c3103142d6a23f08731a37a715aa08eba78f41ade287540bbae4ed3e36a92f",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/stress_testing_v1/comparison_table.csv",
+    "included_as": "reports/stress_testing_v1/comparison_table.csv",
+    "source_sha256": "236b91274de6327f209642857890d69f1608a93f130eddc551de8ec1260ffcca",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/drawdown_threshold_assessment_v1/threshold_summary.csv",
+    "included_as": "reports/drawdown_threshold_assessment_v1/threshold_summary.csv",
+    "source_sha256": "6bcf3543274ce2a13e84e4b5443b08d34bd609a72fe41c8a14f1c1426b766e96",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/drawdown_threshold_assessment_v1/episodes.csv",
+    "included_as": "reports/drawdown_threshold_assessment_v1/episodes.csv",
+    "source_sha256": "758a84ab7ff42d896cacb150ae545d4785b6670f44b3f25f522670811c2363c9",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/var_validation_v1/diagnostics/exception_spacing.csv",
+    "included_as": "reports/var_validation_v1/diagnostics/exception_spacing.csv",
+    "source_sha256": "0da02fb615cc9eb8a9dc6cf09e57d0d6ffebfb68478f115c43c8d20ac3b93d5f",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/var_validation_v1/diagnostics/transition_table.csv",
+    "included_as": "reports/var_validation_v1/diagnostics/transition_table.csv",
+    "source_sha256": "bb3cb98d46fcfab83d6b3e03f8373d15057d524bda3c015ae7528a6b8dafa7a3",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/guided_historical_report_v1/design/loss-timeline-preview.png",
+    "included_as": "assets/loss-timeline.png",
+    "source_sha256": "bb2dca61bfe33e33140124c8aba51192b763660e98285d3c0e56629c127723b9",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/guided_historical_report_v1/design/value-timeline-preview.png",
+    "included_as": "assets/value-timeline.png",
+    "source_sha256": "5e8fee639d25c5532d6df8321e6e607f0ae1e4fc67a60ce489de3539d567ba5e",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "reports/guided_historical_report_v1/design/episode-timeline-preview.png",
+    "included_as": "assets/episode-timeline.png",
+    "source_sha256": "5f80d771a41d985627ae76a3da4915a09906d63a71824cf282facb6a8551660f",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "STRESS_RERUN_SAFEGUARDS.md",
+    "included_as": "STRESS_RERUN_SAFEGUARDS.md",
+    "source_sha256": "4bf359264260f4faac06db477685e69ac29592fdf4c1e88801159046e6f7a683",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "DATA_PIPELINE.md",
+    "included_as": "DATA_PIPELINE.md",
+    "source_sha256": "e997a6b90e736873871ec7890dd55004e025a060b2c102280cfc6efa2b627225",
+    "kind": "sharing copy; machine-specific path normalized"
+  },
+  {
+    "source": "SOURCE_VERIFICATION.md",
+    "included_as": "SOURCE_VERIFICATION.md",
+    "source_sha256": "3a307dcdb10fee85307ba3385c63d5d98df5c045705fe669155b85165b247989",
+    "kind": "sharing copy; machine-specific path normalized"
+  },
+  {
+    "source": "RRL_MATRIX.md",
+    "included_as": "RRL_MATRIX.md",
+    "source_sha256": "2d3f31d637cda763d3a8453273fd090a31ea003333d5cd4b8820a868f9d335ac",
+    "kind": "unmodified project artifact"
+  },
+  {
+    "source": "scripts/ingest_bsp_raw.py",
+    "included_as": "research_source/scripts/ingest_bsp_raw.py",
+    "kind": "inspection copy; machine root normalized; original runtime inputs not bundled"
+  },
+  {
+    "source": "scripts/build_bsp_staging.py",
+    "included_as": "research_source/scripts/build_bsp_staging.py",
+    "kind": "inspection copy; machine root normalized; original runtime inputs not bundled"
+  },
+  {
+    "source": "scripts/stress_safeguards.py",
+    "included_as": "research_source/scripts/stress_safeguards.py",
+    "kind": "inspection copy; machine root normalized; original runtime inputs not bundled"
+  },
+  {
+    "source": "scripts/reproduce_stress_notebook.py",
+    "included_as": "research_source/scripts/reproduce_stress_notebook.py",
+    "kind": "inspection copy; machine root normalized; original runtime inputs not bundled"
+  },
+  {
+    "source": "scripts/build_investigation_indicators.py",
+    "included_as": "research_source/scripts/build_investigation_indicators.py",
+    "kind": "inspection copy; machine root normalized; original runtime inputs not bundled"
+  },
+  {
+    "source": "scripts/build_investigation_episodes.py",
+    "included_as": "research_source/scripts/build_investigation_episodes.py",
+    "kind": "inspection copy; machine root normalized; original runtime inputs not bundled"
+  },
+  {
+    "source": "scripts/assess_drawdown_thresholds.py",
+    "included_as": "research_source/scripts/assess_drawdown_thresholds.py",
+    "kind": "inspection copy; machine root normalized; original runtime inputs not bundled"
+  },
+  {
+    "source": "notebooks/01_fx_exploration.ipynb",
+    "included_as": "research_source/notebooks/01_fx_exploration.ipynb",
+    "kind": "reading copy; outputs cleared, local root normalized; original workspace required"
+  },
+  {
+    "source": "notebooks/02_historical_var.ipynb",
+    "included_as": "research_source/notebooks/02_historical_var.ipynb",
+    "kind": "reading copy; outputs cleared, local root normalized; original workspace required"
+  },
+  {
+    "source": "notebooks/03_stress_testing.ipynb",
+    "included_as": "research_source/notebooks/03_stress_testing.ipynb",
+    "kind": "reading copy; outputs cleared, local root normalized; original workspace required"
+  },
+  {
+    "source": "scripts/check_guided_report_presentation.cjs",
+    "included_as": "scripts/check_guided_report_presentation.cjs",
+    "source_sha256": "88411031fdcd55d8d6b8f66a88a785ad359b5f6d248ebed154ea9fe4e3b608bc",
+    "kind": "unmodified project artifact"
+  }
+]
