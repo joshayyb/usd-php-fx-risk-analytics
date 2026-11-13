@@ -58,7 +58,7 @@ These are chart-only previews generated from saved dashboard data, not screensho
 
 ## Validation and limits
 
-The original study has frozen exact target/training exports and completed source checks for all 44 main-exception endpoints. Dashboard automation checks passed; an independent retest passed 76 isolated assertions, and the user completed a bounded native-browser walkthrough. Other browsers, actual denied-storage unload behavior and independent novice comprehension remain unverified.
+The original study has frozen exact target/training exports and completed source checks for all 44 main-exception endpoints. Dashboard automation checks passed; an independent retest passed 76 isolated assertions, and a bounded native-browser walkthrough was completed. Other browsers, actual denied-storage unload behavior and independent novice comprehension remain unverified.
 
 The stress notebook safeguards passed 18 acceptance tests and six fresh-kernel code cells with no cell errors; all 14 scenario results matched the original exact values. Missing/invalid BPI evidence was tested in isolated fixtures and USD-only results still completed; interrupted exports did not overwrite earlier success.
 

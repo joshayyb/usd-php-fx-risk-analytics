@@ -239,7 +239,7 @@ Model code, quantile/sign/boundary/chronology tests, dependence diagnostics, rep
 
 ### Authorship and review
 
-The user selected the 2022 exploratory focus, pooled calendar-candidate training with separate gap reporting, 250/higher main model, 500/higher and 250/linear sensitivities, signed VaR, and the exclusion/sensitivity structure. The user supplied the final methodology text. The adviser explained mechanics, reviewed consultation feedback, checked the ledger and prepared this implementation register. Adviser assistance and guided code execution do not establish independent implementation mastery. Do not infer the user's unexpressed reasons.
+The study uses 2022 as an explanatory case and pools calendar-candidate training intervals, with separate reporting by gap group. The main specification uses 250 changes and the higher quantile. Sensitivities examine 500 changes, linear interpolation and review-interval inclusion. Signed VaR is retained throughout. The contribution record describes the guided methodology review and implementation assistance.
 
 ### Immediate next step
 

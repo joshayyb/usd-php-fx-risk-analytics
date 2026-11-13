@@ -178,7 +178,7 @@ Future BSP updates require a controlled snapshot comparison and loader review. T
 
 ## 11. Authorship and explanation
 
-The user chose to preserve the BSP series, requested raw/staging implementation and asked for a documented, layman walkthrough. The adviser prepared the code, evidence mapping and verification. Technical correctness checks do not establish the learner's independent coding or methodological defense; understanding is developed through the ongoing walkthrough.
+The pipeline preserves the BSP series through traceable raw and staging layers. Code, evidence mapping and verification were developed with AI assistance. Contribution details are documented in docs/CONTRIBUTIONS.md.
 
 An explanation for an interview:
 
