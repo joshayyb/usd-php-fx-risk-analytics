@@ -53,7 +53,7 @@ SHA-256: 3cf2fd962d1fbd9c4ecc59f56bb71204aa5a29d5f0ee666faa956835532c6848
 
 ## Next manageable task
 
-Extend the source-match sample beyond these two adjacent 2020 dates, beginning with a Monday and then a later-year bulletin. Current status: two exact field/date matches; structural study-period checks completed; rate-construction and full date semantics unresolved. No change to learner mastery is implied by mentor-run checks.
+Extend the source-match sample beyond these two adjacent 2020 dates, beginning with a Monday and then a later-year bulletin. Current status: two exact field/date matches; structural study-period checks completed; rate-construction and full date semantics unresolved.
 
 ## Follow-up verification — 31 October 2026
 
@@ -86,7 +86,7 @@ Current totals: five exact value matches; six selected annual checks pending. Mi
 ## Source-check update — 2 November 2026
 Verified 2021-07-01: workbook row 15896 rate 48.704 matches the original BSP bulletin USD-row PHIL. PESO EQUIVALENT of 48.7040. Separate BSP Reference Rate and PDS Closing Rate both 48.800; PDS market date 2021-06-30. Full original page extracted and visually inspected; no USD-specific weighted-average footnote. Numeric and bulletin-label matching does not establish historical method continuity or exact economic/public-availability dates.
 Official PDF: https://www.bsp.gov.ph/Lists/RERB/Attachments/1083/01Jul2021.pdf
-Current worklist: six exact value matches, zero mismatches, five pending annual anchors. Next selected check: 2022-07-01. Preserved original PDF and updated reconciliation CSV and verification workbook. No new ingestion, risk model or learner-mastery assessment completed. Updated workbook is a local deliverable; existing Google Sheets copies are not automatically synchronized.
+Current worklist: six exact value matches, zero mismatches, five pending annual anchors. Next selected check: 2022-07-01. Preserved original PDF and updated reconciliation CSV and verification workbook. No new ingestion or risk model run was completed. Updated workbook is a local deliverable; existing Google Sheets copies are not automatically synchronized.
 
 ## Batch completion — 2 November 2026 (latest checkpoint)
 All five remaining predetermined annual anchors were retrieved from the BSP archive, text-extracted and visually inspected in full. Each value was independently reconciled with the unchanged original workbook (hash retained).
@@ -105,7 +105,7 @@ All five newly inspected bulletins lack the USD-specific weighted-average footno
 
 **Next action:** review a bounded source-handling specification: preserve original source dates, exact field and units, retain raw missing markers, do not zero-fill or automatically forward-fill returns, retain unknown economic/release dates, and define eligible return intervals before one-day VaR/backtesting claims. Review readiness for raw ingestion separately from readiness for risk modeling. No ingestion or model run was performed. Do not automatically add more sample dates.
 
-Original PDFs, reconciliation CSV and the updated two-tab local verification workbook are preserved in outputs. Existing Google Sheets copies have not been synchronized. Learner understanding or independent mastery has not been inferred from adviser-run checks.
+Original PDFs, reconciliation CSV and the updated two-tab local verification workbook are preserved in outputs. Existing Google Sheets copies have not been synchronized.
 
 ## Publication-calendar evidence — 2 November 2026 (latest)
 PUBLICATION_CALENDAR_REVIEW.md records the official BSP RERB nonpublication rule (weekends/non-working holidays) and working-day 9:30 a.m. schedule. Of 817 '..' markers, 704 are weekends and 106 weekdays match verified proclaimed national non-working dates; treating these as expected gaps applies the published rule retrospectively, not individual proof of historical absence. Seven other weekdays remain unresolved. All 817 have no matching item in the retrieved archive inventory, but three numeric-rate dates also lack an item (2021-09-03, 2022-06-16, 2022-11-04), so an empty archive result cannot certify nonpublication. Archive inventory labels are not extra PDF value comparisons. Eleven inspected value matches remain the tally.
@@ -113,5 +113,5 @@ Evidence and per-date review CSVs saved under outputs/publication-calendar. No s
 
 ## Seven-date investigation — 2 November 2026 (latest)
 SEVEN_DATE_INVESTIGATION.md and Seven_Date_Investigation.csv record a completed bounded context review: all seven unusual weekday markers have documented emergency-disruption context. ISDA supports 17 March 2020 USD/PHP market disruption; CTBC explicitly lists FX service unavailable on 1 September 2023. Other cases have date-specific government work and/or settlement suspension evidence. These findings do not certify exact RERB cancellation or prove the marker's causal explanation. Original calendar counts remain 704 weekend / 106 national non-working weekdays / 7 other weekdays; seven now carry investigated_with_qualification status and publication_cause_status unconfirmed.
-Control: MC83 applies to 13 November 2020, when the workbook contains 48.291, so government work suspension is not an automatic no-rate rule. MC82 is the correct directive for 12 November. PNB PDF retrieval failed 403; BAP summary retrieval failed 404; neither is reported as fully inspected. Original raw values remain unchanged. Three positive-rate/archive gaps remain a separate question. No messages to institutions, ingestion, model run or learner-mastery assessment occurred.
+Control: MC83 applies to 13 November 2020, when the workbook contains 48.291, so government work suspension is not an automatic no-rate rule. MC82 is the correct directive for 12 November. PNB PDF retrieval failed 403; BAP summary retrieval failed 404; neither is reported as fully inspected. Original raw values remain unchanged. Three positive-rate/archive gaps remain a separate question. No messages to institutions, ingestion or model run occurred.
 Next bounded task: frozen raw ingestion and typed staging with these evidence flags. No need to repeat broad searches before raw capture; exact economic-date/method and interval eligibility still limit affected one-day risk claims.

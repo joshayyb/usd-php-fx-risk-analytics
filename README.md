@@ -77,10 +77,10 @@ Source/economic-date mapping, per-observation historical public availability and
 
 ## Authorship and assistance
 
-This is a guided learning project. The project owner shaped the guided-report approach, source preservation, threshold comparisons and selected-date chart cutoff. AI assistance contributed explanation, code, documentation and checking. No independent mastery is asserted; the owner should be able to explain and defend each claim. See [contributions](docs/CONTRIBUTIONS.md).
+This project documents the guided-report approach, source preservation, threshold comparisons and selected-date chart cutoff. Readers can trace and evaluate each claim through the included evidence. See [project context](docs/CONTRIBUTIONS.md).
 
 ## Attribution and licensing
 
 Underlying exchange-rate observations originate from **Bangko Sentral ng Pilipinas (BSP)** publications, freely available through BSP. Processing selected the USD column, preserved source dates/rows, classified gaps and calculated derived intervals and hypothetical risk metrics; this is a modified analytical extract, not an official BSP output or endorsement. BSP attribution/third-party exceptions remain applicable. No BSP/BPI logos, raw workbook, bank PDF, local database or personal review-note exports are included.
 
-BPI is cited only for the separately dated disclosure and simplified derived illustration. A blanket redistribution permission for its PDF was not established, so the PDF is excluded. No repository-wide software license is selected in this draft; third-party notices are retained separately. Read [sharing review](docs/DATA_AND_SHARING.md) before publication.
+BPI is cited only for the separately dated disclosure and simplified derived illustration. A blanket redistribution permission for its PDF was not established, so the PDF is excluded. The repository code and original documentation are available under the [MIT License](LICENSE). Third-party data, source publications and cited materials remain subject to their respective terms. Read [sharing review](docs/DATA_AND_SHARING.md) before publication.

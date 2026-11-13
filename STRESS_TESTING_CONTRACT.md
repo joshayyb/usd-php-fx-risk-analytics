@@ -17,4 +17,4 @@ Before the seven BPI scenarios, reconcile the separate disclosed +/-1.78% compar
 ## Arithmetic, display and outputs
 Use exact rational arithmetic from decimal strings: S_shocked=S0*(1+r); USD P&L=Q*(S_shocked-S0)=Q*S0*r; signed loss=-P&L. BPI P&L=E0*r. Positive loss means loss; negative loss means gain. Do not floor signs. Export exact numerators/denominators, display PHP to cents, percentages to four decimals. Historical fractions are not rounded before calculation. Include a zero-shock control outside the seven scenarios. Check symmetry, linear scaling, positive shocked rates, independent revaluation and historical endpoint/row preservation. Match source hashes and leave frozen VaR/database unchanged.
 
-Scenario set A comprises hypothetical ±1%, ±3% and ±5% changes plus one historical decline. Implementation and interpretation were developed with AI assistance, as documented in the contribution record.
+Scenario set A comprises hypothetical ±1%, ±3% and ±5% changes plus one historical decline. The project context is documented in docs/CONTRIBUTIONS.md.

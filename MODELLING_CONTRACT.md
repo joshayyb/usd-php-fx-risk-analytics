@@ -243,4 +243,4 @@ The study uses 2022 as an explanatory case and pools calendar-candidate training
 
 ### Immediate next step
 
-Review this saved contract with the learner, then build the original-interval ledger and eligible rolling-window selection in a separate risk-modelling notebook, one step at a time. Preserve the existing EDA notebook. Do not run a complete unseen model/backtest in place of the guided implementation.
+Use this saved contract to build the original-interval ledger and eligible rolling-window selection in a separate risk-modelling notebook. Preserve the existing EDA notebook and its documented findings.

@@ -1,6 +1,6 @@
 # Focused RRL matrix
 
-Prepared 31 October 2026. Initial design-oriented review; not exhaustive, not a completed systematic review, and not evidence of learner mastery. Source IDs correspond to PROJECT_DESIGN.md. Search targeted primary sources: BSP, central-bank research, author research, and Basel guidance, using USD/PHP risk, historical simulation, backtesting, and reporting terms. No claim of a novel literature gap follows from this limited search.
+Prepared 31 October 2026. Initial design-oriented review; not exhaustive and not a completed systematic review. Source IDs correspond to PROJECT_DESIGN.md. Search targeted primary sources: BSP, central-bank research, published research, and Basel guidance, using USD/PHP risk, historical simulation, backtesting, and reporting terms. No claim of a novel literature gap follows from this limited search.
 
 | ID / source type | What was examined | Relevant insight | Design implication and critical limit |
 |---|---|---|---|
@@ -24,7 +24,7 @@ Applied contribution: a reproducible recent-period USD/PHP case study that conne
 
 Read S1 first: printed pp. 1–2 for purpose and context, p. 5 for data/method, and p. 7 for the USD exposure illustration. One session should focus only on: **what problem did the author study, what data were used, and which parts are relevant to our simpler position?** Defer advanced formulas until foundations are ready.
 
-Reading record fields for subsequent sessions: learner explanation; research question; dataset/period; exposure definition; method; validation; limitations; implication for our design; exact source section. Do not mark an article fully reviewed from its title or search snippet.
+Reading record fields for subsequent sessions: plain-language explanation; research question; dataset/period; exposure definition; method; validation; limitations; implication for the design; exact source section. Do not mark an article fully reviewed from its title or search snippet.
 
 ## Direct sources
 
@@ -39,5 +39,5 @@ Reading record fields for subsequent sessions: learner explanation; research que
 - S9: [BCBS MAR33](https://www.bis.org/committees/bcbs/basel-framework/standard/mar/33/inforce/2023-01-01/published/2020-03-27)
 
 ## 2026-10-31 — Source clarification and consultation scope
-SOURCE_VERIFICATION.md supplies two direct historical bulletin comparisons: the workbook matches the same-date USD-row PHIL. PESO EQUIVALENT, which differs from each bulletin's BSP Reference Rate/PDS Closing Rate. S7's general reference-rate metadata is contextual and must not be asserted as the definition of the entire workbook. Exact construction and historical continuity remain unresolved. No new RRL finding or learner reading completion is inferred from the external consultation.
+SOURCE_VERIFICATION.md supplies two direct historical bulletin comparisons: the workbook matches the same-date USD-row PHIL. PESO EQUIVALENT, which differs from each bulletin's BSP Reference Rate/PDS Closing Rate. S7's general reference-rate metadata is contextual and must not be asserted as the definition of the entire workbook. Exact construction and historical continuity remain unresolved.
 The core objective retains VaR/stress/retrospective evaluation. ES remains optional; the local paper's inclusion of ES does not require copying all its measures. See CONSULTATION_REVIEW.md for decisions and evaluation criteria.

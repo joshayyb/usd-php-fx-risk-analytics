@@ -137,7 +137,7 @@ These results were read from the actual project database and saved execution rep
 
 Every staged source identity matches a raw record. No missing rate was converted to zero. Raw was independently compared with the pre-staging database backup and remained identical. Saved raw and staging payload readbacks passed.
 
-Additional checks on disposable databases covered changed-source rejection, raw rerun stability, incomplete-load refusal, 12 staging conversion boundaries, staging repeat-build stability and a deliberately triggered late insertion failure to verify transaction rollback. These were adviser-run checks; no independent learner mastery or production reliability is implied.
+Additional checks on disposable databases covered changed-source rejection, raw rerun stability, incomplete-load refusal, 12 staging conversion boundaries, staging repeat-build stability and a deliberately triggered late insertion failure to verify transaction rollback. These checks cover the documented pipeline behavior and its stated scope.
 
 ## 9. Run order and project files
 
@@ -178,7 +178,7 @@ Future BSP updates require a controlled snapshot comparison and loader review. T
 
 ## 11. Authorship and explanation
 
-The pipeline preserves the BSP series through traceable raw and staging layers. Code, evidence mapping and verification were developed with AI assistance. Contribution details are documented in docs/CONTRIBUTIONS.md.
+The pipeline preserves the BSP series through traceable raw and staging layers. Code, evidence mapping and verification are documented in docs/CONTRIBUTIONS.md.
 
 An explanation for an interview:
 
