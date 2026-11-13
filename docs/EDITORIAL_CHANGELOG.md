@@ -13,3 +13,7 @@ The original report and previous handoff ZIP were backed up outside the candidat
 | Repeated project-status notices | Keep local edition metadata once and place sharing conditions with the sources. |
 
 The original questions, fixed exposure, data choices, VaR settings, stress assumptions, episode rule, four project figures and companion dashboard are retained. The article now identifies the EDA and modelling evidence for each question. Dates and units disclosed in research sources take precedence over preliminary design wording. No personal byline was added because the reviewed files contained no verified preferred public author identity.
+
+## Reader wording revision · 13 November 2026
+
+Replaced conversational choice and approval statements in the pipeline, model contract, indicator specification, stress contract and EDA reading copy with direct descriptions of the design and its interpretive limits. The contribution record retains assistance disclosure. This pass concerns narrative wording.
