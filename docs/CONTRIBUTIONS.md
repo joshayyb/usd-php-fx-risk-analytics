@@ -1,7 +1,7 @@
-# Contributions and honest presentation
+# Project context
 
-The project owner initiated a practical learning study for traded-risk internship preparation and contributed the preference for a guided report, retaining the BSP series rather than filling from another provider, comparing all 2/3/4% thresholds with tradeoffs, and showing charts only up to the selected date by default. The owner performed and reported the guided basic browser checks.
+This portfolio documents an educational historical USD/PHP risk study for traded-risk internship preparation. It covers source quality, fixed-position valuation, historical VaR, backtesting, stress scenarios and a review dashboard focused on investigation.
 
-AI assistance supported conceptual explanation, source investigation, implementation, documentation and test design. An adviser review independently inspected supplied files/handlers and reported 76 passing isolated assertions, while actual browser launch was blocked. That is not an independent bank-model validation or a blind user study. Do not claim ownership of third-party data or independent implementation without assistance.
+The project preserves the BSP series, compares 2%, 3% and 4% drawdown thresholds, and shows charts through the selected source date by default. The included browser checks cover the documented interface behavior. The project does not claim bank-model certification or a blind user study.
 
-Suggested interview description: “I developed an educational historical USD/PHP risk dashboard through a guided project. I worked through source quality, fixed-position valuation, historical VaR, backtesting and stress scenarios, then shaped the report around investigation rather than automated actions. I can explain the model's assumptions and the unresolved timing and limit-calibration questions.” Use this only to the extent the owner can explain the details independently.
+Suggested interview description: “I developed an educational historical USD/PHP risk dashboard. I worked through source quality, fixed-position valuation, historical VaR, backtesting and stress scenarios, then shaped the report around investigation rather than automated actions. I can explain the model’s assumptions and the unresolved timing and limit-calibration questions.”
