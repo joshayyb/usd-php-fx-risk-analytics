@@ -1,5 +1,7 @@
 # Historical USD/PHP FX risk
 
+![Historical USD/PHP FX Risk Analysis](assets/hero-usd-php-fx-risk.png)
+
 On 5 August 2025 a hypothetical long USD 1 million holding lost ₱878,000 in peso value. The prior historical VaR was ₱425,719.97. Follow that observation through the source checks, model and review dashboard.
 
 [Read the research article](project-report.html) · [Explore the dashboard](reports/guided_historical_report_v1/index.html) · [Replay the results](docs/REPRODUCIBILITY.md)
