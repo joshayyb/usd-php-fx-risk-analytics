@@ -8,4 +8,4 @@
 
 **Remaining limitations:** historical release timing and full-series method continuity remain qualified; original BPI publication date is unknown; economic hedge sensitivities, nonlinear instruments, liquidity, costs and behavioural responses are outside this static design. No macroeconomic cause is inferred from the historical date.
 
-**Next:** design the guided historical risk report and agree its finite set of investigation indicators. Implementation is adviser-assisted; concept mastery remains unassessed.
+**Next:** design the guided historical risk report and agree its finite set of investigation indicators.
